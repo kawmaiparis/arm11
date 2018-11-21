@@ -1,0 +1,4 @@
+You can change your login options via adding an ! in front
+Calibration / !Automation
+Calibrations:
+1099,98, 1068,166, 794,528, 854,484, 525,282, 1078,294, 1000,756, 1340,82, 478,331, 1081,274, 1014,652, 475,326, 1097,473, 1097,685, 1002,746,
